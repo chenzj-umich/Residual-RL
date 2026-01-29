@@ -1,0 +1,5 @@
+setup.py
+ResidualMPC.egg-info/PKG-INFO
+ResidualMPC.egg-info/SOURCES.txt
+ResidualMPC.egg-info/dependency_links.txt
+ResidualMPC.egg-info/top_level.txt
